@@ -1,0 +1,47 @@
+IF Att_5 = 1 THEN => 1 is target class
+IF Att_5 = 2  and Att_4 = 1  and Att_1 = 1  and Att_2 = 1 THEN => 1 is target class
+IF Att_5 = 2  and Att_4 = 1  and Att_1 = 1  and Att_2 = 2 THEN => 0 is target class
+IF Att_5 = 2  and Att_4 = 1  and Att_1 = 1  and Att_2 = 3 THEN => 0 is target class
+IF Att_5 = 2  and Att_4 = 1  and Att_1 = 2  and Att_2 = 1 THEN => 0 is target class
+IF Att_5 = 2  and Att_4 = 1  and Att_1 = 2  and Att_2 = 2 THEN => 1 is target class
+IF Att_5 = 2  and Att_4 = 1  and Att_1 = 3  and Att_2 = 1 THEN => 0 is target class
+IF Att_5 = 2  and Att_4 = 1  and Att_1 = 3  and Att_2 = 3 THEN => 1 is target class
+IF Att_5 = 2  and Att_4 = 2  and Att_2 = 1 THEN => 0 is target class
+IF Att_5 = 2  and Att_4 = 2  and Att_2 = 2 THEN => 1 is target class
+IF Att_5 = 2  and Att_4 = 2  and Att_2 = 3 THEN => 0 is target class
+IF Att_5 = 2  and Att_4 = 3  and Att_3 = 1  and Att_1 = 1  and Att_2 = 1 THEN => 1 is target class
+IF Att_5 = 2  and Att_4 = 3  and Att_3 = 1  and Att_1 = 1  and Att_2 = 2 THEN => 0 is target class
+IF Att_5 = 2  and Att_4 = 3  and Att_3 = 1  and Att_1 = 1  and Att_2 = 3 THEN => 0 is target class
+IF Att_5 = 2  and Att_4 = 3  and Att_3 = 1  and Att_1 = 2 THEN => 1 is target class
+IF Att_5 = 2  and Att_4 = 3  and Att_3 = 1  and Att_1 = 3  and Att_2 = 1 THEN => 0 is target class
+IF Att_5 = 2  and Att_4 = 3  and Att_3 = 1  and Att_1 = 3  and Att_2 = 3 THEN => 1 is target class
+IF Att_5 = 2  and Att_4 = 3  and Att_3 = 2  and Att_2 = 1 THEN => 0 is target class
+IF Att_5 = 2  and Att_4 = 3  and Att_3 = 2  and Att_2 = 2 THEN => 0 is target class
+IF Att_5 = 2  and Att_4 = 3  and Att_3 = 2  and Att_2 = 3  and Att_1 = 1 THEN => 0 is target class
+IF Att_5 = 2  and Att_4 = 3  and Att_3 = 2  and Att_2 = 3  and Att_1 = 3 THEN => 1 is target class
+IF Att_5 = 3  and Att_6 = 1  and Att_4 = 1  and Att_3 = 1 THEN => 1 is target class
+IF Att_5 = 3  and Att_6 = 1  and Att_4 = 1  and Att_3 = 2 THEN => 0 is target class
+IF Att_5 = 3  and Att_6 = 1  and Att_4 = 2  and Att_1 = 1  and Att_2 = 1 THEN => 1 is target class
+IF Att_5 = 3  and Att_6 = 1  and Att_4 = 2  and Att_1 = 1  and Att_2 = 2 THEN => 0 is target class
+IF Att_5 = 3  and Att_6 = 1  and Att_4 = 2  and Att_1 = 2 THEN => 0 is target class
+IF Att_5 = 3  and Att_6 = 1  and Att_4 = 3 THEN => 0 is target class
+IF Att_5 = 3  and Att_6 = 2  and Att_3 = 1  and Att_4 = 1  and Att_1 = 1 THEN => 1 is target class
+IF Att_5 = 3  and Att_6 = 2  and Att_3 = 1  and Att_4 = 1  and Att_1 = 2 THEN => 0 is target class
+IF Att_5 = 3  and Att_6 = 2  and Att_3 = 1  and Att_4 = 2  and Att_1 = 1 THEN => 0 is target class
+IF Att_5 = 3  and Att_6 = 2  and Att_3 = 1  and Att_4 = 2  and Att_1 = 2 THEN => 1 is target class
+IF Att_5 = 3  and Att_6 = 2  and Att_3 = 1  and Att_4 = 2  and Att_1 = 3 THEN => 1 is target class
+IF Att_5 = 3  and Att_6 = 2  and Att_3 = 1  and Att_4 = 3 THEN => 1 is target class
+IF Att_5 = 3  and Att_6 = 2  and Att_3 = 2  and Att_1 = 1 THEN => 0 is target class
+IF Att_5 = 3  and Att_6 = 2  and Att_3 = 2  and Att_1 = 2  and Att_2 = 2 THEN => 1 is target class
+IF Att_5 = 3  and Att_6 = 2  and Att_3 = 2  and Att_1 = 2  and Att_2 = 3 THEN => 0 is target class
+IF Att_5 = 3  and Att_6 = 2  and Att_3 = 2  and Att_1 = 3  and Att_2 = 1 THEN => 0 is target class
+IF Att_5 = 3  and Att_6 = 2  and Att_3 = 2  and Att_1 = 3  and Att_2 = 2 THEN => 0 is target class
+IF Att_5 = 3  and Att_6 = 2  and Att_3 = 2  and Att_1 = 3  and Att_2 = 3 THEN => 1 is target class
+IF Att_5 = 4  and Att_1 = 1  and Att_2 = 1 THEN => 1 is target class
+IF Att_5 = 4  and Att_1 = 1  and Att_2 = 2 THEN => 0 is target class
+IF Att_5 = 4  and Att_1 = 1  and Att_2 = 3 THEN => 0 is target class
+IF Att_5 = 4  and Att_1 = 2  and Att_2 = 1 THEN => 0 is target class
+IF Att_5 = 4  and Att_1 = 2  and Att_2 = 2 THEN => 1 is target class
+IF Att_5 = 4  and Att_1 = 2  and Att_2 = 3 THEN => 0 is target class
+IF Att_5 = 4  and Att_1 = 3  and Att_2 = 2 THEN => 0 is target class
+IF Att_5 = 4  and Att_1 = 3  and Att_2 = 3 THEN => 1 is target class
